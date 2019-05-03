@@ -1,24 +1,13 @@
-# README
+# 踏切マップ - API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 開発環境
+- Docker
+- Ruby on Rails
 
-Things you may want to cover:
+## 動作
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+$ git clone <this_repository>
+$ cd <this_repository>
+$ rails s
+```
