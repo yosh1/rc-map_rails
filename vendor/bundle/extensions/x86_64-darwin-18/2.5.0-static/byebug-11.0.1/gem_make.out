@@ -1,0 +1,19 @@
+current directory: /Users/yoshi1125hisa/Desktop/railroad-crossing-map-api/railroad_crossing_map_api/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/yoshi1125hisa/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20190501-5199-n8zua8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yoshi1125hisa/Desktop/railroad-crossing-map-api/railroad_crossing_map_api/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/yoshi1125hisa/Desktop/railroad-crossing-map-api/railroad_crossing_map_api/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/yoshi1125hisa/Desktop/railroad-crossing-map-api/railroad_crossing_map_api/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190501-5199-1dfgxy0/byebug

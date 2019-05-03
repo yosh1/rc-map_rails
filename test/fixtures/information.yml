@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  branch_office: MyString
+  track_maintenance_area: MyString
+  control_room: MyString
+  road_manager_name: MyString
+  road_name: MyString
+  location: MyString
+
+two:
+  branch_office: MyString
+  track_maintenance_area: MyString
+  control_room: MyString
+  road_manager_name: MyString
+  road_name: MyString
+  location: MyString
